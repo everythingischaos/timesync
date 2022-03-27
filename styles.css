@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    font-size: 3vh;
+}
+tr:nth-child(even) {background: #CCC}
+tr:nth-child(odd) {background: #FFF}
+.red {
+    color: rgb(34, 34, 34);
+}
+.green {
+    color: rgb(77, 77, 77);
+}
+.blue {
+    color: rgb(151, 151, 151);
+}
